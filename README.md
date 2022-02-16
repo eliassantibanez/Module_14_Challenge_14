@@ -1,4 +1,4 @@
-# Module_18_Challenge_18
+# Challenge 14
 #### This application was built doing the following: 
 * Implement an algorithmic trading strategy that uses machine learning to automate the trade decisions.
 
